@@ -1,4 +1,6 @@
 # problem_solveing
-This is My First Git Repository.
+Data Structures and Algorithms I-Problem-Solveing
 <br>
-Author - Zahid Hasan(BAUST)
+B.Sc. Engg. in CSE, BAUST(On-going)
+<br>
+Author-Zahid Hasan
